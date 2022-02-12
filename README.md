@@ -1,3 +1,6 @@
+#Following a tutorial by Software Engineer Hayde on YouTube
+This was my first sucessful attemp to add a react app to github thanks to Software Engineer Hayens tutorial
+anyone else can also follow along on YouTube at this URL https://www.youtube.com/watch?v=JhMFAh5FgKU&t=1s
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
